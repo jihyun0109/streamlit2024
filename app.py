@@ -1,4 +1,4 @@
 import streamlit as st
 
 st.write('Hello Stream!!')
-st.write('park ji hyun')
+st.markdown('park **ji hyun**')
